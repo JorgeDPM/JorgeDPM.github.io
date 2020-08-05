@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://rutasenmoto.ml/about/</loc>
+    <lastmod>2019-02-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rutasenmoto.ml/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://rutasenmoto.ml/en/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://rutasenmoto.ml/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://rutasenmoto.ml/contact/</loc>
+  </url>
+  
+  <url>
+    <loc>https://rutasenmoto.ml/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://rutasenmoto.ml/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://rutasenmoto.ml/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://rutasenmoto.ml/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://rutasenmoto.ml/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://rutasenmoto.ml/tags/"
+                />
+  </url>
+  
+</urlset>
