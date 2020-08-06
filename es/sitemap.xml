@@ -3,54 +3,87 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://rutasenmoto.ml/about/</loc>
+    <loc>https://www.rutasenmoto.ml/tags/2020/</loc>
+    <lastmod>2020-08-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.rutasenmoto.ml/categories/actualizacion/</loc>
+    <lastmod>2020-08-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.rutasenmoto.ml/blog/</loc>
+    <lastmod>2020-08-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.rutasenmoto.ml/categories/</loc>
+    <lastmod>2020-08-05T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.rutasenmoto.ml/en/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://www.rutasenmoto.ml/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.rutasenmoto.ml/tags/covid-19/</loc>
+    <lastmod>2020-08-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.rutasenmoto.ml/blog/2020-08-05-covid/</loc>
+    <lastmod>2020-08-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.rutasenmoto.ml/tags/planes/</loc>
+    <lastmod>2020-08-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.rutasenmoto.ml/</loc>
+    <lastmod>2020-08-05T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.rutasenmoto.ml/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://www.rutasenmoto.ml/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.rutasenmoto.ml/tags/</loc>
+    <lastmod>2020-08-05T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.rutasenmoto.ml/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://www.rutasenmoto.ml/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.rutasenmoto.ml/about/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://rutasenmoto.ml/categories/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://rutasenmoto.ml/en/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://rutasenmoto.ml/categories/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://rutasenmoto.ml/contact/</loc>
-  </url>
-  
-  <url>
-    <loc>https://rutasenmoto.ml/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://rutasenmoto.ml/en/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://rutasenmoto.ml/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://rutasenmoto.ml/tags/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://rutasenmoto.ml/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://rutasenmoto.ml/tags/"
-                />
+    <loc>https://www.rutasenmoto.ml/contact/</loc>
   </url>
   
 </urlset>
